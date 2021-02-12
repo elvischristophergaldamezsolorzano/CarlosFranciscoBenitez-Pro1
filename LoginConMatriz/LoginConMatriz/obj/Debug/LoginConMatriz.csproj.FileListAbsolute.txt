@@ -1,0 +1,10 @@
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\bin\Debug\LoginConMatriz.exe.config
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\bin\Debug\LoginConMatriz.exe
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\bin\Debug\LoginConMatriz.pdb
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\obj\Debug\LoginConMatriz.csprojAssemblyReference.cache
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\obj\Debug\LoginConMatriz.Form1.resources
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\obj\Debug\LoginConMatriz.Properties.Resources.resources
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\obj\Debug\LoginConMatriz.csproj.GenerateResource.cache
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\obj\Debug\LoginConMatriz.csproj.CoreCompileInputs.cache
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\obj\Debug\LoginConMatriz.exe
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\LoginConMatriz\LoginConMatriz\obj\Debug\LoginConMatriz.pdb
