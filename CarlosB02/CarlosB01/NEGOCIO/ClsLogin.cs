@@ -1,17 +1,17 @@
-﻿using LoginConMatriz.DOMINIO;
+﻿using CarlosB01.DOMINIO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LoginConMatriz.NEGOCIO
+namespace CarlosB01.NEGOCIO
 {
     class ClsLogin
     {
         public int Acceso(Login log)
         {
-            string[] Users = new string[5]{ "Carlos", "Griselda", "Walter", "Giselle", "Francisco" };
+            string[] Users = new string[5] { "Carlos", "Griselda", "Walter", "Giselle", "Francisco" };
             string[] Passwords = new string[6] { "001", "001", "002", "003", "004", "005" };
 
             Users = Users.Distinct().ToArray();
@@ -19,10 +19,10 @@ namespace LoginConMatriz.NEGOCIO
 
             int estado = 0;
 
-            for(int i = 0; i < Users.Length; i++)
+            for (int i = 0; i < Users.Length; i++)
             {
-             
-                if (log.User.Equals(Users[i]) && log.Password.Equals(Passwords[i]))
+
+                if (log.Usuario.Equals(Users[i]) && log.Password.Equals(Passwords[i]))
                 {
                     estado = 1;
                 }
@@ -43,9 +43,9 @@ namespace LoginConMatriz.NEGOCIO
 
             for (int i = 0; i < usuarios.Length; i++)
             {
-                for(int j = 0; j < usuarios[i].Length; j++)
+                for (int j = 0; j < usuarios[i].Length; j++)
                 {
-                    if (log.User.Equals(usuarios[i][j]) && log.Password.Equals(usuarios[i + 1][j]))
+                    if (log.Usuario.Equals(usuarios[i][j]) && log.Password.Equals(usuarios[i + 1][j]))
                     {
                         estado = 1;
                     }

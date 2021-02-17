@@ -1,0 +1,23 @@
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.csprojAssemblyReference.cache
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.Form1.resources
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.Properties.Resources.resources
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.csproj.GenerateResource.cache
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.csproj.CoreCompileInputs.cache
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\bin\Debug\CarlosB01.exe.config
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\bin\Debug\CarlosB01.exe
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\bin\Debug\CarlosB01.pdb
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.exe
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.pdb
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\Proyectos en VisualStudio 2019\CarlosB01\CarlosB01\obj\Debug\CarlosB01.VISTA.frmMenu.resources
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\bin\Debug\CarlosB01.exe.config
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\bin\Debug\CarlosB01.exe
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\bin\Debug\CarlosB01.pdb
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.csprojAssemblyReference.cache
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.Form1.resources
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.Properties.Resources.resources
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.VISTA.frmMenu.resources
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.csproj.GenerateResource.cache
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.csproj.CoreCompileInputs.cache
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.exe
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.pdb
+C:\Users\cb272\Documents\GitHub\CarlosFranciscoBenitez-Pro1\CarlosB01\CarlosB01\obj\Debug\CarlosB01.VISTA.frmAcercaDe.resources
